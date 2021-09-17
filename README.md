@@ -1,1 +1,1 @@
-# night_life_project
+# nitelife-demo
